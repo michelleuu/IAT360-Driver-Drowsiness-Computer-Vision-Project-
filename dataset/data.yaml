@@ -1,0 +1,18 @@
+names:
+- eye_closed
+- eye_open
+- head_dropped
+- head_straight
+- no_yawn
+- yawn
+nc: 6
+path: .
+roboflow:
+  license: CC BY 4.0
+  project: kantukv2-hihkc
+  url: https://app.roboflow.com/michelles-workspace-b7mvu/kantukv2-hihkc/1
+  version: 1
+  workspace: michelles-workspace-b7mvu
+test: test/images
+train: train/images
+val: valid/images
