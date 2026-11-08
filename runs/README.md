@@ -30,10 +30,3 @@ This folder contains the training outputs from all hyperparameter tuning experim
 ### Test Set Evaluation
 - `test_evaluation/` - Final model evaluation on 122 test images
 - `test_predictions/` - Prediction visualizations on test images
-
-## Key Files in Each Folder
-- `args.yaml` - Training configuration
-- `results.csv` - Per-epoch training metrics
-- `results.png` - Training curves
-- `confusion_matrix_normalized.png` - Normalized confusion matrix
-- `weights/best.pt` - Best model weights (only in epochs_20_adamw)
