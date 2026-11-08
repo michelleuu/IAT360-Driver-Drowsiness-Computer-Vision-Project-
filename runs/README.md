@@ -29,4 +29,3 @@ This folder contains the training outputs from all hyperparameter tuning experim
 
 ### Test Set Evaluation
 - `test_evaluation/` - Final model evaluation on 122 test images
-- `test_predictions/` - Prediction visualizations on test images
